@@ -1,0 +1,23 @@
+{
+  "name": "es6-generators",
+  "version": "0.0.1",
+  "description": "ES6 generators",
+  "main": "index.js",
+  "dependencies": {
+    "co": "4.6.0",
+    "node-fetch": "1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "ecma",
+    "script",
+    "javascript",
+    "generators"
+  ],
+  "author": "Fabio M. Albertin <fabio@albertin.co.uk> (http://ifab.io/)",
+  "license": "MIT"
+}
